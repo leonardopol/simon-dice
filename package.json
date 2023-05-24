@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/r-argentina-programa/simon-dice.git"
+    "url": "git+https://github.com/leonardopol/simon-dice.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/r-argentina-programa/simon-dice/issues"
+    "url": "https://github.com/leonardopol/simon-dice/issues"
   },
-  "homepage": "https://github.com/r-argentina-programa/simon-dice#readme",
+  "homepage": "https://github.com/leonardopol/simon-dice#readme",
   "dependencies": {
-    "bootstrap": "^4.4.1",
-    "jquery": "^3.4.1"
+    "bootstrap": "^5.2.3",
+    "jquery": "^3.7.0"
   }
 }
